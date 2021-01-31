@@ -1,0 +1,13 @@
+.bd{color:white;
+     font-family: arial black;
+text-transform:capitalize;
+background:red;border-width:4;
+border-style: solid;
+border-color:black;
+
+}
+
+.hi{background:white;
+overflow:block;color:black;
+text-transform: uppercase;
+font-family : arial black;}
